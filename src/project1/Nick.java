@@ -7,5 +7,8 @@ public class Nick {
         //some new lines
 
         //for new commit
+
+
+        //some more lines
     }
 }
